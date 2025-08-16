@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityFlow.Web", "CharityFlow.Web\CharityFlow.Web.csproj", "{AA314550-4E61-460D-853F-D328CC9C26F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityFlow.Infrastructure", "CharityFlow.Infrastructure\CharityFlow.Infrastructure.csproj", "{083EF145-1C9A-4686-BAC1-9C05564F8D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityFlow.Domain", "CharityFlow.Domain\CharityFlow.Domain.csproj", "{FD379CCC-DD62-4808-B5D8-915D3BE1354E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityFlow.Application", "CharityFlow.Application\CharityFlow.Application.csproj", "{BDA0242E-AA44-4E8F-8C6E-A2FC3503D764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA314550-4E61-460D-853F-D328CC9C26F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA314550-4E61-460D-853F-D328CC9C26F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA314550-4E61-460D-853F-D328CC9C26F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA314550-4E61-460D-853F-D328CC9C26F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083EF145-1C9A-4686-BAC1-9C05564F8D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083EF145-1C9A-4686-BAC1-9C05564F8D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083EF145-1C9A-4686-BAC1-9C05564F8D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083EF145-1C9A-4686-BAC1-9C05564F8D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD379CCC-DD62-4808-B5D8-915D3BE1354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD379CCC-DD62-4808-B5D8-915D3BE1354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD379CCC-DD62-4808-B5D8-915D3BE1354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD379CCC-DD62-4808-B5D8-915D3BE1354E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA0242E-AA44-4E8F-8C6E-A2FC3503D764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA0242E-AA44-4E8F-8C6E-A2FC3503D764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA0242E-AA44-4E8F-8C6E-A2FC3503D764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA0242E-AA44-4E8F-8C6E-A2FC3503D764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
